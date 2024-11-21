@@ -1,0 +1,37 @@
+[
+    {
+        "numero": "OP003",
+        "data": "2024-11-19",
+        "cliente": "111.222.333-44",
+        "vendedor": "V003",
+        "veiculo": "Ford Ranger 2022",
+        "tipo": "venda",
+        "valor_entrada": 30000.0,
+        "valor_financiado": 120000.0,
+        "valor_total": 150000.0
+    },
+    {
+        "numero": "OP002",
+        "data": "2024-11-20",
+        "cliente": "987.654.321-00",
+        "vendedor": "V002",
+        "veiculo": "Honda Civic 2020",
+        "tipo": "compra",
+        "valor": 75000.0
+    },
+    {
+        "numero": "OP001",
+        "data": "2024-11-21",
+        "cliente": "123.456.789-00",
+        "vendedor": "V001",
+        "veiculo": "Toyota Corolla 2021",
+        "tipo": "venda",
+        "valor_entrada": 20000.0,
+        "valor_financiado": 80000.0,
+        "valor_total": 100000.0
+    }
+    
+    
+    
+]
+

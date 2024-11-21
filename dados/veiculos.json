@@ -1,0 +1,42 @@
+[
+    {
+        "chassi": "1HGCM82633A123456",
+        "placa": "ABC1D23",
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "ano_fabricacao": "2020",
+        "ano_modelo": "2021",
+        "cor": "Prata",
+        "valor": 125000.0
+    },
+    {
+        "chassi": "JH4KA8270NC002345",
+        "placa": "XYZ4E56",
+        "marca": "Ford",
+        "modelo": "Mustang",
+        "ano_fabricacao": "2018",
+        "ano_modelo": "2019",
+        "cor": "Vermelho",
+        "valor": 350000.0
+    },
+    {
+        "chassi": "WDBRF40J53F314567",
+        "placa": "QWE0G12",
+        "marca": "Honda",
+        "modelo": "Civic",
+        "ano_fabricacao": "2019",
+        "ano_modelo": "2020",
+        "cor": "Preto",
+        "valor": 140000.0
+    },
+    {
+        "chassi": "2G1FK1EJ3C9203456",
+        "placa": "JKL7H89",
+        "marca": "Chevrolet",
+        "modelo": "Onix",
+        "ano_fabricacao": "2021",
+        "ano_modelo": "2022",
+        "cor": "Branco",
+        "valor": 85000.0
+    }
+]

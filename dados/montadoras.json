@@ -1,0 +1,27 @@
+[
+{
+    "cnpj": "12.345.678/0001-00",
+    "razao_social": "Toyota do Brasil S.A.",
+    "marca": "Toyota",
+    "contato": "João Silva",
+    "telefone_comercial": "(11) 1234-5678",
+    "celular": "(11) 91234-5678"
+},
+{
+    "cnpj": "98.765.432/0001-99",
+    "razao_social": "General Motors do Brasil Ltda.",
+    "marca": "Chevrolet",
+    "contato": "Maria Oliveira",
+    "telefone_comercial": "(21) 8765-4321",
+    "celular": "(21) 98765-4321"
+},
+{
+    "cnpj": "45.678.912/0001-11",
+    "razao_social": "Volkswagen do Brasil Indústria de Veículos Ltda.",
+    "marca": "Volkswagen",
+    "contato": "Carlos Lima",
+    "telefone_comercial": "(31) 2345-6789",
+    "celular": "(31) 92345-6789"
+}
+
+]

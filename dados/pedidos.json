@@ -1,0 +1,38 @@
+[
+    {
+        "numero": "PED001",
+        "data": "21/11/2024",
+        "cliente": "12345678901",
+        "vendedor": "V001",
+        "montadora": "01.234.567/0001-89",
+        "modelo": "Corolla",
+        "ano": "2021",
+        "cor": "Prata",
+        "acessorios": ["Ar condicionado", "Bancos de couro"],
+        "valor": 125000.0
+    },
+    {
+        "numero": "PED002",
+        "data": "20/11/2024",
+        "cliente": "98765432109",
+        "vendedor": "V002",
+        "montadora": "45.678.901/0001-23",
+        "modelo": "Mustang",
+        "ano": "2019",
+        "cor": "Vermelho",
+        "acessorios": ["Teto solar", "Sensor de estacionamento"],
+        "valor": 350000.0
+    },
+    {
+        "numero": "PED003",
+        "data": "18/11/2024",
+        "cliente": "45678912322",
+        "vendedor": "V003",
+        "montadora": "98.765.432/0001-67",
+        "modelo": "Civic",
+        "ano": "2020",
+        "cor": "Preto",
+        "acessorios": ["Som premium", "Rodas esportivas"],
+        "valor": 140000.0
+    }
+]
